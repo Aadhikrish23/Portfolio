@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'back_to_black_demoregular';
+    src: url('./webfontkit-20230405-122137/back_to_black_demo-webfont.woff') format('woff2'),
+         url('back_to_black_demo-webfont.woff') format('woff');
+   
+
+}
+@font-face {
+    font-family: 'font2';
+    src: url('./webfontkit-20230405-123054/berkshireswash-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
